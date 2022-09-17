@@ -129,7 +129,7 @@
     align-items: center;
     justify-content: center;
     justify-content: space-between;
-    top: 0px;
+    top: -1px;
 	position: sticky;
     width: 100%;
     z-index: 1;
